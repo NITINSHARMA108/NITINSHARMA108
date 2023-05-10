@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/nitinsharma2806" target="blank"><img src="https://img.shields.io/twitter/follow/nitinsharma2806?logo=twitter&style=for-the-badge" alt="nitinsharma2806" /></a> </p>
 
-- 💬 Ask me about **MERN / MEAN , JAVA MICROSERVICES**
+- 💬 Ask me about **MERN / MEAN , JAVA, SPRINGBOOT**
 
 - 📫 How to reach me **biyalanitin786@gmail.com**
 
